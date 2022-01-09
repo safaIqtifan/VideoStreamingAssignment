@@ -18,7 +18,7 @@ import com.google.android.exoplayer2.util.Util;
 
 public class VideoActivity1 extends AppCompatActivity {
 
-    private String videoURL = "https://cdn.videvo.net/videvo_files/video/free/2014-12/small_watermarked/Raindrops_Videvo_preview.webm";
+    private String videoURL = "https://firebasestorage.googleapis.com/v0/b/jerusalemnews-app.appspot.com/o/%D9%85%D8%A7%20%D9%87%D9%8A%20%D8%A7%D9%84%D9%82%D8%AF%D8%B3%20_%20%D9%81%D9%84%D8%B3%D8%B7%D9%8A%D9%86%20%D9%81%D9%8A%20%D8%AF%D9%82%D9%8A%D9%82%D8%A9.mp4?alt=media&token=682e70e6-52f1-4dcf-aa83-1ff48292d169";
     PlayerView playerView;
     private SimpleExoPlayer player;
     private boolean playWhenReady = true;
